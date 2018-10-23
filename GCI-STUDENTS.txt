@@ -4,6 +4,7 @@ Add your name's anagram (not the name itself, for privacy reasons) to this list,
 A
 -----------
 Audi things
+Haynes Thibaud
 
 B
 -----------
@@ -40,7 +41,6 @@ L
 
 M
 -----------
-Markov Vania
 
 N
 -----------
